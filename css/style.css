@@ -91,7 +91,7 @@ body{
 .header__content{
   background-image: url('../images/header-bg.jpg');
   background-repeat: no-repeat;
-  background-position: center;
+  background-position: 50% 10px;
   background-size: cover;
   font-family: 'Montserrat', sans-serif;
   padding-top: 94px;
@@ -743,7 +743,7 @@ body{
     margin-top: 35px;
   }
   .header__top-inner{
-    align-items: center;
+    align-items: flex-start;
   }
   .title {
     font-size: 44px;
